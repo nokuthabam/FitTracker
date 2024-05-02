@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Log files
+logs
+*.log
+
+# Environment variables
+.env
+
+# npm's cache
+.npm
+
+# Compiled binary addons (if any)
+/build/
+
+# Mac OS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Yarn's lock file
+yarn.lock
+
+# ESLint cache
+.eslintcache

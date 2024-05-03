@@ -8,6 +8,7 @@ A Fitness Tracker Application
 3. [Usage](#usage)
 4. [Features](#features)
 5. [Continuous Integration](#circleci)
+6. [Code Coverage](#codecov)
 
 ## Introduction <a name="introduction"></a>
 
@@ -35,3 +36,7 @@ To be added.
 ## Continuous Integration <a name="circleci"></a>
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/nokuthabam/FitTracker/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/nokuthabam/FitTracker/tree/main)
+
+## Code Coverage <a name="codecov"></a>
+
+[![codecov](https://codecov.io/gh/nokuthabam/FitTracker/graph/badge.svg?token=317PD5E3W6)](https://codecov.io/gh/nokuthabam/FitTracker)

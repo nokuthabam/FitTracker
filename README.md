@@ -7,6 +7,7 @@ A Fitness Tracker Application
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Features](#features)
+5. [Continuous Integration](#circleci)
 
 ## Introduction <a name="introduction"></a>
 
@@ -30,3 +31,6 @@ To install our project, follow these simple steps:
 ## Features <a name="features"></a>
 
 To be added.
+
+## Continuous Integration <a name = "circleci></a>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/nokuthabam/FitTracker/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/nokuthabam/FitTracker/tree/main)
